@@ -1,0 +1,727 @@
+,precinct,Corridor_Proj_Total,type
+0,1.0,0,Bicycle Network Dev
+1,1.0,15,Bicycle Network Development
+2,1.0,0,Bike Network Dev
+3,1.0,0,High Crash Corridor
+4,1.0,0,New Public Space
+5,1.0,10,Pedestrian Safety
+6,1.0,0,Senior Safety
+7,1.0,32,Traffic Calming
+8,1.0,0,Traffic Network Chng
+9,1.0,0,VZ Priority Geo
+10,1.0,0,Vision Zero
+11,5.0,0,Bicycle Network Dev
+12,5.0,9,Bicycle Network Development
+13,5.0,0,Bike Network Dev
+14,5.0,0,High Crash Corridor
+15,5.0,0,New Public Space
+16,5.0,2,Pedestrian Safety
+17,5.0,0,Senior Safety
+18,5.0,14,Traffic Calming
+19,5.0,0,Traffic Network Chng
+20,5.0,4,VZ Priority Geo
+21,5.0,0,Vision Zero
+22,6.0,0,Bicycle Network Dev
+23,6.0,0,Bicycle Network Development
+24,6.0,0,Bike Network Dev
+25,6.0,0,High Crash Corridor
+26,6.0,0,New Public Space
+27,6.0,7,Pedestrian Safety
+28,6.0,0,Senior Safety
+29,6.0,2,Traffic Calming
+30,6.0,0,Traffic Network Chng
+31,6.0,15,VZ Priority Geo
+32,6.0,0,Vision Zero
+33,7.0,0,Bicycle Network Dev
+34,7.0,0,Bicycle Network Development
+35,7.0,0,Bike Network Dev
+36,7.0,0,High Crash Corridor
+37,7.0,0,New Public Space
+38,7.0,0,Pedestrian Safety
+39,7.0,0,Senior Safety
+40,7.0,1,Traffic Calming
+41,7.0,0,Traffic Network Chng
+42,7.0,0,VZ Priority Geo
+43,7.0,7,Vision Zero
+44,9.0,0,Bicycle Network Dev
+45,9.0,0,Bicycle Network Development
+46,9.0,0,Bike Network Dev
+47,9.0,0,High Crash Corridor
+48,9.0,0,New Public Space
+49,9.0,0,Pedestrian Safety
+50,9.0,0,Senior Safety
+51,9.0,13,Traffic Calming
+52,9.0,0,Traffic Network Chng
+53,9.0,0,VZ Priority Geo
+54,9.0,0,Vision Zero
+55,10.0,4,Bicycle Network Dev
+56,10.0,0,Bicycle Network Development
+57,10.0,0,Bike Network Dev
+58,10.0,0,High Crash Corridor
+59,10.0,0,New Public Space
+60,10.0,2,Pedestrian Safety
+61,10.0,1,Senior Safety
+62,10.0,9,Traffic Calming
+63,10.0,0,Traffic Network Chng
+64,10.0,0,VZ Priority Geo
+65,10.0,0,Vision Zero
+66,13.0,0,Bicycle Network Dev
+67,13.0,0,Bicycle Network Development
+68,13.0,0,Bike Network Dev
+69,13.0,0,High Crash Corridor
+70,13.0,0,New Public Space
+71,13.0,0,Pedestrian Safety
+72,13.0,0,Senior Safety
+73,13.0,17,Traffic Calming
+74,13.0,0,Traffic Network Chng
+75,13.0,0,VZ Priority Geo
+76,13.0,0,Vision Zero
+77,14.0,4,Bicycle Network Dev
+78,14.0,0,Bicycle Network Development
+79,14.0,0,Bike Network Dev
+80,14.0,0,High Crash Corridor
+81,14.0,0,New Public Space
+82,14.0,4,Pedestrian Safety
+83,14.0,0,Senior Safety
+84,14.0,9,Traffic Calming
+85,14.0,0,Traffic Network Chng
+86,14.0,2,VZ Priority Geo
+87,14.0,0,Vision Zero
+88,17.0,0,Bicycle Network Dev
+89,17.0,0,Bicycle Network Development
+90,17.0,0,Bike Network Dev
+91,17.0,0,High Crash Corridor
+92,17.0,0,New Public Space
+93,17.0,3,Pedestrian Safety
+94,17.0,0,Senior Safety
+95,17.0,5,Traffic Calming
+96,17.0,0,Traffic Network Chng
+97,17.0,8,VZ Priority Geo
+98,17.0,0,Vision Zero
+99,18.0,10,Bicycle Network Dev
+100,18.0,0,Bicycle Network Development
+101,18.0,0,Bike Network Dev
+102,18.0,0,High Crash Corridor
+103,18.0,0,New Public Space
+104,18.0,1,Pedestrian Safety
+105,18.0,0,Senior Safety
+106,18.0,0,Traffic Calming
+107,18.0,0,Traffic Network Chng
+108,18.0,0,VZ Priority Geo
+109,18.0,0,Vision Zero
+110,19.0,0,Bicycle Network Dev
+111,19.0,0,Bicycle Network Development
+112,19.0,0,Bike Network Dev
+113,19.0,0,High Crash Corridor
+114,19.0,0,New Public Space
+115,19.0,22,Pedestrian Safety
+116,19.0,0,Senior Safety
+117,19.0,26,Traffic Calming
+118,19.0,0,Traffic Network Chng
+119,19.0,34,VZ Priority Geo
+120,19.0,0,Vision Zero
+121,20.0,0,Bicycle Network Dev
+122,20.0,0,Bicycle Network Development
+123,20.0,0,Bike Network Dev
+124,20.0,0,High Crash Corridor
+125,20.0,0,New Public Space
+126,20.0,5,Pedestrian Safety
+127,20.0,0,Senior Safety
+128,20.0,0,Traffic Calming
+129,20.0,0,Traffic Network Chng
+130,20.0,0,VZ Priority Geo
+131,20.0,0,Vision Zero
+132,22.0,0,Bicycle Network Dev
+133,22.0,0,Bicycle Network Development
+134,22.0,0,Bike Network Dev
+135,22.0,0,High Crash Corridor
+136,22.0,0,New Public Space
+137,22.0,4,Pedestrian Safety
+138,22.0,0,Senior Safety
+139,22.0,1,Traffic Calming
+140,22.0,0,Traffic Network Chng
+141,22.0,0,VZ Priority Geo
+142,22.0,0,Vision Zero
+143,23.0,0,Bicycle Network Dev
+144,23.0,0,Bicycle Network Development
+145,23.0,0,Bike Network Dev
+146,23.0,0,High Crash Corridor
+147,23.0,0,New Public Space
+148,23.0,0,Pedestrian Safety
+149,23.0,0,Senior Safety
+150,23.0,17,Traffic Calming
+151,23.0,0,Traffic Network Chng
+152,23.0,0,VZ Priority Geo
+153,23.0,0,Vision Zero
+154,24.0,0,Bicycle Network Dev
+155,24.0,0,Bicycle Network Development
+156,24.0,0,Bike Network Dev
+157,24.0,0,High Crash Corridor
+158,24.0,0,New Public Space
+159,24.0,11,Pedestrian Safety
+160,24.0,0,Senior Safety
+161,24.0,0,Traffic Calming
+162,24.0,0,Traffic Network Chng
+163,24.0,0,VZ Priority Geo
+164,24.0,0,Vision Zero
+165,25.0,0,Bicycle Network Dev
+166,25.0,0,Bicycle Network Development
+167,25.0,0,Bike Network Dev
+168,25.0,6,High Crash Corridor
+169,25.0,0,New Public Space
+170,25.0,0,Pedestrian Safety
+171,25.0,0,Senior Safety
+172,25.0,7,Traffic Calming
+173,25.0,0,Traffic Network Chng
+174,25.0,0,VZ Priority Geo
+175,25.0,0,Vision Zero
+176,26.0,0,Bicycle Network Dev
+177,26.0,0,Bicycle Network Development
+178,26.0,0,Bike Network Dev
+179,26.0,0,High Crash Corridor
+180,26.0,0,New Public Space
+181,26.0,0,Pedestrian Safety
+182,26.0,0,Senior Safety
+183,26.0,10,Traffic Calming
+184,26.0,0,Traffic Network Chng
+185,26.0,0,VZ Priority Geo
+186,26.0,2,Vision Zero
+187,28.0,0,Bicycle Network Dev
+188,28.0,0,Bicycle Network Development
+189,28.0,0,Bike Network Dev
+190,28.0,0,High Crash Corridor
+191,28.0,0,New Public Space
+192,28.0,0,Pedestrian Safety
+193,28.0,0,Senior Safety
+194,28.0,19,Traffic Calming
+195,28.0,0,Traffic Network Chng
+196,28.0,0,VZ Priority Geo
+197,28.0,2,Vision Zero
+198,30.0,0,Bicycle Network Dev
+199,30.0,0,Bicycle Network Development
+200,30.0,0,Bike Network Dev
+201,30.0,0,High Crash Corridor
+202,30.0,0,New Public Space
+203,30.0,0,Pedestrian Safety
+204,30.0,0,Senior Safety
+205,30.0,0,Traffic Calming
+206,30.0,0,Traffic Network Chng
+207,30.0,29,VZ Priority Geo
+208,30.0,0,Vision Zero
+209,32.0,0,Bicycle Network Dev
+210,32.0,0,Bicycle Network Development
+211,32.0,0,Bike Network Dev
+212,32.0,0,High Crash Corridor
+213,32.0,0,New Public Space
+214,32.0,0,Pedestrian Safety
+215,32.0,0,Senior Safety
+216,32.0,6,Traffic Calming
+217,32.0,0,Traffic Network Chng
+218,32.0,0,VZ Priority Geo
+219,32.0,15,Vision Zero
+220,33.0,0,Bicycle Network Dev
+221,33.0,0,Bicycle Network Development
+222,33.0,0,Bike Network Dev
+223,33.0,0,High Crash Corridor
+224,33.0,0,New Public Space
+225,33.0,5,Pedestrian Safety
+226,33.0,0,Senior Safety
+227,33.0,0,Traffic Calming
+228,33.0,0,Traffic Network Chng
+229,33.0,26,VZ Priority Geo
+230,33.0,0,Vision Zero
+231,40.0,0,Bicycle Network Dev
+232,40.0,0,Bicycle Network Development
+233,40.0,0,Bike Network Dev
+234,40.0,28,High Crash Corridor
+235,40.0,0,New Public Space
+236,40.0,0,Pedestrian Safety
+237,40.0,0,Senior Safety
+238,40.0,10,Traffic Calming
+239,40.0,0,Traffic Network Chng
+240,40.0,10,VZ Priority Geo
+241,40.0,0,Vision Zero
+242,41.0,0,Bicycle Network Dev
+243,41.0,0,Bicycle Network Development
+244,41.0,0,Bike Network Dev
+245,41.0,0,High Crash Corridor
+246,41.0,0,New Public Space
+247,41.0,0,Pedestrian Safety
+248,41.0,0,Senior Safety
+249,41.0,12,Traffic Calming
+250,41.0,0,Traffic Network Chng
+251,41.0,16,VZ Priority Geo
+252,41.0,0,Vision Zero
+253,42.0,0,Bicycle Network Dev
+254,42.0,0,Bicycle Network Development
+255,42.0,0,Bike Network Dev
+256,42.0,0,High Crash Corridor
+257,42.0,0,New Public Space
+258,42.0,0,Pedestrian Safety
+259,42.0,0,Senior Safety
+260,42.0,18,Traffic Calming
+261,42.0,0,Traffic Network Chng
+262,42.0,8,VZ Priority Geo
+263,42.0,0,Vision Zero
+264,43.0,0,Bicycle Network Dev
+265,43.0,0,Bicycle Network Development
+266,43.0,0,Bike Network Dev
+267,43.0,0,High Crash Corridor
+268,43.0,0,New Public Space
+269,43.0,0,Pedestrian Safety
+270,43.0,0,Senior Safety
+271,43.0,53,Traffic Calming
+272,43.0,0,Traffic Network Chng
+273,43.0,0,VZ Priority Geo
+274,43.0,0,Vision Zero
+275,44.0,0,Bicycle Network Dev
+276,44.0,0,Bicycle Network Development
+277,44.0,0,Bike Network Dev
+278,44.0,3,High Crash Corridor
+279,44.0,0,New Public Space
+280,44.0,0,Pedestrian Safety
+281,44.0,0,Senior Safety
+282,44.0,19,Traffic Calming
+283,44.0,0,Traffic Network Chng
+284,44.0,21,VZ Priority Geo
+285,44.0,0,Vision Zero
+286,45.0,0,Bicycle Network Dev
+287,45.0,0,Bicycle Network Development
+288,45.0,0,Bike Network Dev
+289,45.0,0,High Crash Corridor
+290,45.0,0,New Public Space
+291,45.0,0,Pedestrian Safety
+292,45.0,0,Senior Safety
+293,45.0,12,Traffic Calming
+294,45.0,0,Traffic Network Chng
+295,45.0,16,VZ Priority Geo
+296,45.0,0,Vision Zero
+297,46.0,0,Bicycle Network Dev
+298,46.0,0,Bicycle Network Development
+299,46.0,0,Bike Network Dev
+300,46.0,0,High Crash Corridor
+301,46.0,0,New Public Space
+302,46.0,0,Pedestrian Safety
+303,46.0,0,Senior Safety
+304,46.0,15,Traffic Calming
+305,46.0,0,Traffic Network Chng
+306,46.0,0,VZ Priority Geo
+307,46.0,0,Vision Zero
+308,47.0,0,Bicycle Network Dev
+309,47.0,0,Bicycle Network Development
+310,47.0,0,Bike Network Dev
+311,47.0,0,High Crash Corridor
+312,47.0,0,New Public Space
+313,47.0,0,Pedestrian Safety
+314,47.0,0,Senior Safety
+315,47.0,7,Traffic Calming
+316,47.0,0,Traffic Network Chng
+317,47.0,6,VZ Priority Geo
+318,47.0,0,Vision Zero
+319,48.0,0,Bicycle Network Dev
+320,48.0,0,Bicycle Network Development
+321,48.0,0,Bike Network Dev
+322,48.0,0,High Crash Corridor
+323,48.0,0,New Public Space
+324,48.0,0,Pedestrian Safety
+325,48.0,0,Senior Safety
+326,48.0,11,Traffic Calming
+327,48.0,0,Traffic Network Chng
+328,48.0,0,VZ Priority Geo
+329,48.0,0,Vision Zero
+330,49.0,0,Bicycle Network Dev
+331,49.0,0,Bicycle Network Development
+332,49.0,0,Bike Network Dev
+333,49.0,0,High Crash Corridor
+334,49.0,0,New Public Space
+335,49.0,0,Pedestrian Safety
+336,49.0,0,Senior Safety
+337,49.0,13,Traffic Calming
+338,49.0,0,Traffic Network Chng
+339,49.0,0,VZ Priority Geo
+340,49.0,0,Vision Zero
+341,50.0,0,Bicycle Network Dev
+342,50.0,0,Bicycle Network Development
+343,50.0,0,Bike Network Dev
+344,50.0,0,High Crash Corridor
+345,50.0,0,New Public Space
+346,50.0,0,Pedestrian Safety
+347,50.0,0,Senior Safety
+348,50.0,0,Traffic Calming
+349,50.0,0,Traffic Network Chng
+350,50.0,1,VZ Priority Geo
+351,50.0,0,Vision Zero
+352,52.0,0,Bicycle Network Dev
+353,52.0,0,Bicycle Network Development
+354,52.0,0,Bike Network Dev
+355,52.0,0,High Crash Corridor
+356,52.0,0,New Public Space
+357,52.0,0,Pedestrian Safety
+358,52.0,0,Senior Safety
+359,52.0,39,Traffic Calming
+360,52.0,0,Traffic Network Chng
+361,52.0,10,VZ Priority Geo
+362,52.0,0,Vision Zero
+363,60.0,0,Bicycle Network Dev
+364,60.0,0,Bicycle Network Development
+365,60.0,0,Bike Network Dev
+366,60.0,0,High Crash Corridor
+367,60.0,0,New Public Space
+368,60.0,0,Pedestrian Safety
+369,60.0,0,Senior Safety
+370,60.0,0,Traffic Calming
+371,60.0,0,Traffic Network Chng
+372,60.0,24,VZ Priority Geo
+373,60.0,0,Vision Zero
+374,62.0,0,Bicycle Network Dev
+375,62.0,0,Bicycle Network Development
+376,62.0,0,Bike Network Dev
+377,62.0,0,High Crash Corridor
+378,62.0,0,New Public Space
+379,62.0,0,Pedestrian Safety
+380,62.0,0,Senior Safety
+381,62.0,0,Traffic Calming
+382,62.0,0,Traffic Network Chng
+383,62.0,58,VZ Priority Geo
+384,62.0,0,Vision Zero
+385,63.0,0,Bicycle Network Dev
+386,63.0,0,Bicycle Network Development
+387,63.0,0,Bike Network Dev
+388,63.0,0,High Crash Corridor
+389,63.0,0,New Public Space
+390,63.0,0,Pedestrian Safety
+391,63.0,0,Senior Safety
+392,63.0,18,Traffic Calming
+393,63.0,0,Traffic Network Chng
+394,63.0,20,VZ Priority Geo
+395,63.0,0,Vision Zero
+396,66.0,0,Bicycle Network Dev
+397,66.0,0,Bicycle Network Development
+398,66.0,0,Bike Network Dev
+399,66.0,0,High Crash Corridor
+400,66.0,0,New Public Space
+401,66.0,0,Pedestrian Safety
+402,66.0,0,Senior Safety
+403,66.0,0,Traffic Calming
+404,66.0,0,Traffic Network Chng
+405,66.0,5,VZ Priority Geo
+406,66.0,0,Vision Zero
+407,67.0,0,Bicycle Network Dev
+408,67.0,0,Bicycle Network Development
+409,67.0,0,Bike Network Dev
+410,67.0,0,High Crash Corridor
+411,67.0,0,New Public Space
+412,67.0,0,Pedestrian Safety
+413,67.0,0,Senior Safety
+414,67.0,13,Traffic Calming
+415,67.0,8,Traffic Network Chng
+416,67.0,16,VZ Priority Geo
+417,67.0,0,Vision Zero
+418,68.0,0,Bicycle Network Dev
+419,68.0,0,Bicycle Network Development
+420,68.0,0,Bike Network Dev
+421,68.0,0,High Crash Corridor
+422,68.0,0,New Public Space
+423,68.0,0,Pedestrian Safety
+424,68.0,0,Senior Safety
+425,68.0,44,Traffic Calming
+426,68.0,0,Traffic Network Chng
+427,68.0,7,VZ Priority Geo
+428,68.0,68,Vision Zero
+429,70.0,0,Bicycle Network Dev
+430,70.0,0,Bicycle Network Development
+431,70.0,0,Bike Network Dev
+432,70.0,0,High Crash Corridor
+433,70.0,0,New Public Space
+434,70.0,0,Pedestrian Safety
+435,70.0,0,Senior Safety
+436,70.0,27,Traffic Calming
+437,70.0,0,Traffic Network Chng
+438,70.0,14,VZ Priority Geo
+439,70.0,0,Vision Zero
+440,71.0,0,Bicycle Network Dev
+441,71.0,0,Bicycle Network Development
+442,71.0,0,Bike Network Dev
+443,71.0,12,High Crash Corridor
+444,71.0,0,New Public Space
+445,71.0,0,Pedestrian Safety
+446,71.0,0,Senior Safety
+447,71.0,13,Traffic Calming
+448,71.0,9,Traffic Network Chng
+449,71.0,10,VZ Priority Geo
+450,71.0,0,Vision Zero
+451,73.0,0,Bicycle Network Dev
+452,73.0,0,Bicycle Network Development
+453,73.0,0,Bike Network Dev
+454,73.0,1,High Crash Corridor
+455,73.0,0,New Public Space
+456,73.0,0,Pedestrian Safety
+457,73.0,0,Senior Safety
+458,73.0,52,Traffic Calming
+459,73.0,0,Traffic Network Chng
+460,73.0,21,VZ Priority Geo
+461,73.0,0,Vision Zero
+462,75.0,0,Bicycle Network Dev
+463,75.0,0,Bicycle Network Development
+464,75.0,0,Bike Network Dev
+465,75.0,0,High Crash Corridor
+466,75.0,0,New Public Space
+467,75.0,0,Pedestrian Safety
+468,75.0,0,Senior Safety
+469,75.0,30,Traffic Calming
+470,75.0,0,Traffic Network Chng
+471,75.0,87,VZ Priority Geo
+472,75.0,5,Vision Zero
+473,76.0,0,Bicycle Network Dev
+474,76.0,0,Bicycle Network Development
+475,76.0,12,Bike Network Dev
+476,76.0,0,High Crash Corridor
+477,76.0,0,New Public Space
+478,76.0,0,Pedestrian Safety
+479,76.0,0,Senior Safety
+480,76.0,0,Traffic Calming
+481,76.0,0,Traffic Network Chng
+482,76.0,0,VZ Priority Geo
+483,76.0,0,Vision Zero
+484,77.0,0,Bicycle Network Dev
+485,77.0,0,Bicycle Network Development
+486,77.0,0,Bike Network Dev
+487,77.0,3,High Crash Corridor
+488,77.0,0,New Public Space
+489,77.0,0,Pedestrian Safety
+490,77.0,0,Senior Safety
+491,77.0,19,Traffic Calming
+492,77.0,11,Traffic Network Chng
+493,77.0,14,VZ Priority Geo
+494,77.0,0,Vision Zero
+495,78.0,0,Bicycle Network Dev
+496,78.0,0,Bicycle Network Development
+497,78.0,0,Bike Network Dev
+498,78.0,0,High Crash Corridor
+499,78.0,0,New Public Space
+500,78.0,0,Pedestrian Safety
+501,78.0,0,Senior Safety
+502,78.0,27,Traffic Calming
+503,78.0,0,Traffic Network Chng
+504,78.0,1,VZ Priority Geo
+505,78.0,0,Vision Zero
+506,79.0,0,Bicycle Network Dev
+507,79.0,0,Bicycle Network Development
+508,79.0,0,Bike Network Dev
+509,79.0,0,High Crash Corridor
+510,79.0,0,New Public Space
+511,79.0,0,Pedestrian Safety
+512,79.0,0,Senior Safety
+513,79.0,0,Traffic Calming
+514,79.0,0,Traffic Network Chng
+515,79.0,2,VZ Priority Geo
+516,79.0,0,Vision Zero
+517,81.0,0,Bicycle Network Dev
+518,81.0,0,Bicycle Network Development
+519,81.0,0,Bike Network Dev
+520,81.0,0,High Crash Corridor
+521,81.0,0,New Public Space
+522,81.0,0,Pedestrian Safety
+523,81.0,0,Senior Safety
+524,81.0,0,Traffic Calming
+525,81.0,0,Traffic Network Chng
+526,81.0,22,VZ Priority Geo
+527,81.0,0,Vision Zero
+528,83.0,0,Bicycle Network Dev
+529,83.0,0,Bicycle Network Development
+530,83.0,0,Bike Network Dev
+531,83.0,0,High Crash Corridor
+532,83.0,0,New Public Space
+533,83.0,0,Pedestrian Safety
+534,83.0,0,Senior Safety
+535,83.0,14,Traffic Calming
+536,83.0,0,Traffic Network Chng
+537,83.0,83,VZ Priority Geo
+538,83.0,0,Vision Zero
+539,84.0,0,Bicycle Network Dev
+540,84.0,0,Bicycle Network Development
+541,84.0,6,Bike Network Dev
+542,84.0,0,High Crash Corridor
+543,84.0,0,New Public Space
+544,84.0,0,Pedestrian Safety
+545,84.0,0,Senior Safety
+546,84.0,1,Traffic Calming
+547,84.0,0,Traffic Network Chng
+548,84.0,4,VZ Priority Geo
+549,84.0,1,Vision Zero
+550,88.0,0,Bicycle Network Dev
+551,88.0,0,Bicycle Network Development
+552,88.0,0,Bike Network Dev
+553,88.0,0,High Crash Corridor
+554,88.0,0,New Public Space
+555,88.0,0,Pedestrian Safety
+556,88.0,0,Senior Safety
+557,88.0,0,Traffic Calming
+558,88.0,0,Traffic Network Chng
+559,88.0,13,VZ Priority Geo
+560,88.0,0,Vision Zero
+561,90.0,0,Bicycle Network Dev
+562,90.0,0,Bicycle Network Development
+563,90.0,0,Bike Network Dev
+564,90.0,0,High Crash Corridor
+565,90.0,0,New Public Space
+566,90.0,0,Pedestrian Safety
+567,90.0,0,Senior Safety
+568,90.0,19,Traffic Calming
+569,90.0,0,Traffic Network Chng
+570,90.0,3,VZ Priority Geo
+571,90.0,0,Vision Zero
+572,94.0,0,Bicycle Network Dev
+573,94.0,0,Bicycle Network Development
+574,94.0,0,Bike Network Dev
+575,94.0,0,High Crash Corridor
+576,94.0,4,New Public Space
+577,94.0,0,Pedestrian Safety
+578,94.0,0,Senior Safety
+579,94.0,0,Traffic Calming
+580,94.0,0,Traffic Network Chng
+581,94.0,0,VZ Priority Geo
+582,94.0,1,Vision Zero
+583,102.0,0,Bicycle Network Dev
+584,102.0,0,Bicycle Network Development
+585,102.0,0,Bike Network Dev
+586,102.0,0,High Crash Corridor
+587,102.0,0,New Public Space
+588,102.0,0,Pedestrian Safety
+589,102.0,0,Senior Safety
+590,102.0,14,Traffic Calming
+591,102.0,0,Traffic Network Chng
+592,102.0,6,VZ Priority Geo
+593,102.0,0,Vision Zero
+594,103.0,0,Bicycle Network Dev
+595,103.0,0,Bicycle Network Development
+596,103.0,0,Bike Network Dev
+597,103.0,0,High Crash Corridor
+598,103.0,0,New Public Space
+599,103.0,0,Pedestrian Safety
+600,103.0,0,Senior Safety
+601,103.0,2,Traffic Calming
+602,103.0,0,Traffic Network Chng
+603,103.0,0,VZ Priority Geo
+604,103.0,0,Vision Zero
+605,104.0,0,Bicycle Network Dev
+606,104.0,0,Bicycle Network Development
+607,104.0,0,Bike Network Dev
+608,104.0,0,High Crash Corridor
+609,104.0,0,New Public Space
+610,104.0,0,Pedestrian Safety
+611,104.0,0,Senior Safety
+612,104.0,117,Traffic Calming
+613,104.0,0,Traffic Network Chng
+614,104.0,32,VZ Priority Geo
+615,104.0,2,Vision Zero
+616,106.0,0,Bicycle Network Dev
+617,106.0,0,Bicycle Network Development
+618,106.0,0,Bike Network Dev
+619,106.0,0,High Crash Corridor
+620,106.0,0,New Public Space
+621,106.0,0,Pedestrian Safety
+622,106.0,0,Senior Safety
+623,106.0,0,Traffic Calming
+624,106.0,0,Traffic Network Chng
+625,106.0,3,VZ Priority Geo
+626,106.0,0,Vision Zero
+627,107.0,0,Bicycle Network Dev
+628,107.0,0,Bicycle Network Development
+629,107.0,0,Bike Network Dev
+630,107.0,0,High Crash Corridor
+631,107.0,0,New Public Space
+632,107.0,0,Pedestrian Safety
+633,107.0,0,Senior Safety
+634,107.0,6,Traffic Calming
+635,107.0,0,Traffic Network Chng
+636,107.0,0,VZ Priority Geo
+637,107.0,0,Vision Zero
+638,108.0,0,Bicycle Network Dev
+639,108.0,0,Bicycle Network Development
+640,108.0,0,Bike Network Dev
+641,108.0,2,High Crash Corridor
+642,108.0,0,New Public Space
+643,108.0,0,Pedestrian Safety
+644,108.0,0,Senior Safety
+645,108.0,111,Traffic Calming
+646,108.0,0,Traffic Network Chng
+647,108.0,50,VZ Priority Geo
+648,108.0,3,Vision Zero
+649,109.0,0,Bicycle Network Dev
+650,109.0,0,Bicycle Network Development
+651,109.0,0,Bike Network Dev
+652,109.0,0,High Crash Corridor
+653,109.0,0,New Public Space
+654,109.0,0,Pedestrian Safety
+655,109.0,0,Senior Safety
+656,109.0,0,Traffic Calming
+657,109.0,0,Traffic Network Chng
+658,109.0,0,VZ Priority Geo
+659,109.0,5,Vision Zero
+660,110.0,0,Bicycle Network Dev
+661,110.0,0,Bicycle Network Development
+662,110.0,0,Bike Network Dev
+663,110.0,19,High Crash Corridor
+664,110.0,0,New Public Space
+665,110.0,0,Pedestrian Safety
+666,110.0,0,Senior Safety
+667,110.0,4,Traffic Calming
+668,110.0,0,Traffic Network Chng
+669,110.0,0,VZ Priority Geo
+670,110.0,0,Vision Zero
+671,112.0,0,Bicycle Network Dev
+672,112.0,0,Bicycle Network Development
+673,112.0,0,Bike Network Dev
+674,112.0,0,High Crash Corridor
+675,112.0,0,New Public Space
+676,112.0,0,Pedestrian Safety
+677,112.0,0,Senior Safety
+678,112.0,44,Traffic Calming
+679,112.0,0,Traffic Network Chng
+680,112.0,5,VZ Priority Geo
+681,112.0,0,Vision Zero
+682,114.0,0,Bicycle Network Dev
+683,114.0,0,Bicycle Network Development
+684,114.0,0,Bike Network Dev
+685,114.0,1,High Crash Corridor
+686,114.0,0,New Public Space
+687,114.0,0,Pedestrian Safety
+688,114.0,0,Senior Safety
+689,114.0,0,Traffic Calming
+690,114.0,0,Traffic Network Chng
+691,114.0,0,VZ Priority Geo
+692,114.0,4,Vision Zero
+693,115.0,0,Bicycle Network Dev
+694,115.0,0,Bicycle Network Development
+695,115.0,0,Bike Network Dev
+696,115.0,35,High Crash Corridor
+697,115.0,0,New Public Space
+698,115.0,0,Pedestrian Safety
+699,115.0,0,Senior Safety
+700,115.0,0,Traffic Calming
+701,115.0,0,Traffic Network Chng
+702,115.0,0,VZ Priority Geo
+703,115.0,0,Vision Zero
+704,120.0,0,Bicycle Network Dev
+705,120.0,0,Bicycle Network Development
+706,120.0,0,Bike Network Dev
+707,120.0,0,High Crash Corridor
+708,120.0,0,New Public Space
+709,120.0,0,Pedestrian Safety
+710,120.0,0,Senior Safety
+711,120.0,6,Traffic Calming
+712,120.0,0,Traffic Network Chng
+713,120.0,36,VZ Priority Geo
+714,120.0,0,Vision Zero
+715,121.0,0,Bicycle Network Dev
+716,121.0,0,Bicycle Network Development
+717,121.0,0,Bike Network Dev
+718,121.0,0,High Crash Corridor
+719,121.0,0,New Public Space
+720,121.0,0,Pedestrian Safety
+721,121.0,0,Senior Safety
+722,121.0,21,Traffic Calming
+723,121.0,0,Traffic Network Chng
+724,121.0,56,VZ Priority Geo
+725,121.0,0,Vision Zero

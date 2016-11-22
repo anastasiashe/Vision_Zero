@@ -1,0 +1,302 @@
+,precinct,Intersec_Proj_Total,type
+0,1.0,0,High Crash Corridor
+1,1.0,0,Pedestrian Safety
+2,1.0,0,Senior Safety
+3,1.0,1,Traffic Calming
+4,1.0,0,Traffic Network Chng
+5,1.0,1,VZ Priority Geo
+6,1.0,0,Vision Zero
+7,5.0,0,High Crash Corridor
+8,5.0,0,Pedestrian Safety
+9,5.0,0,Senior Safety
+10,5.0,1,Traffic Calming
+11,5.0,0,Traffic Network Chng
+12,5.0,0,VZ Priority Geo
+13,5.0,0,Vision Zero
+14,6.0,0,High Crash Corridor
+15,6.0,0,Pedestrian Safety
+16,6.0,0,Senior Safety
+17,6.0,0,Traffic Calming
+18,6.0,0,Traffic Network Chng
+19,6.0,3,VZ Priority Geo
+20,6.0,0,Vision Zero
+21,7.0,0,High Crash Corridor
+22,7.0,0,Pedestrian Safety
+23,7.0,0,Senior Safety
+24,7.0,0,Traffic Calming
+25,7.0,0,Traffic Network Chng
+26,7.0,0,VZ Priority Geo
+27,7.0,2,Vision Zero
+28,14.0,0,High Crash Corridor
+29,14.0,1,Pedestrian Safety
+30,14.0,0,Senior Safety
+31,14.0,0,Traffic Calming
+32,14.0,0,Traffic Network Chng
+33,14.0,2,VZ Priority Geo
+34,14.0,0,Vision Zero
+35,17.0,0,High Crash Corridor
+36,17.0,0,Pedestrian Safety
+37,17.0,0,Senior Safety
+38,17.0,0,Traffic Calming
+39,17.0,0,Traffic Network Chng
+40,17.0,2,VZ Priority Geo
+41,17.0,0,Vision Zero
+42,18.0,0,High Crash Corridor
+43,18.0,1,Pedestrian Safety
+44,18.0,0,Senior Safety
+45,18.0,0,Traffic Calming
+46,18.0,0,Traffic Network Chng
+47,18.0,3,VZ Priority Geo
+48,18.0,0,Vision Zero
+49,19.0,0,High Crash Corridor
+50,19.0,0,Pedestrian Safety
+51,19.0,0,Senior Safety
+52,19.0,5,Traffic Calming
+53,19.0,0,Traffic Network Chng
+54,19.0,0,VZ Priority Geo
+55,19.0,0,Vision Zero
+56,24.0,0,High Crash Corridor
+57,24.0,8,Pedestrian Safety
+58,24.0,0,Senior Safety
+59,24.0,0,Traffic Calming
+60,24.0,0,Traffic Network Chng
+61,24.0,0,VZ Priority Geo
+62,24.0,0,Vision Zero
+63,28.0,0,High Crash Corridor
+64,28.0,0,Pedestrian Safety
+65,28.0,0,Senior Safety
+66,28.0,0,Traffic Calming
+67,28.0,0,Traffic Network Chng
+68,28.0,1,VZ Priority Geo
+69,28.0,0,Vision Zero
+70,30.0,0,High Crash Corridor
+71,30.0,0,Pedestrian Safety
+72,30.0,0,Senior Safety
+73,30.0,1,Traffic Calming
+74,30.0,0,Traffic Network Chng
+75,30.0,1,VZ Priority Geo
+76,30.0,0,Vision Zero
+77,32.0,0,High Crash Corridor
+78,32.0,0,Pedestrian Safety
+79,32.0,0,Senior Safety
+80,32.0,0,Traffic Calming
+81,32.0,0,Traffic Network Chng
+82,32.0,2,VZ Priority Geo
+83,32.0,0,Vision Zero
+84,33.0,0,High Crash Corridor
+85,33.0,0,Pedestrian Safety
+86,33.0,0,Senior Safety
+87,33.0,0,Traffic Calming
+88,33.0,0,Traffic Network Chng
+89,33.0,1,VZ Priority Geo
+90,33.0,0,Vision Zero
+91,34.0,0,High Crash Corridor
+92,34.0,0,Pedestrian Safety
+93,34.0,0,Senior Safety
+94,34.0,3,Traffic Calming
+95,34.0,0,Traffic Network Chng
+96,34.0,1,VZ Priority Geo
+97,34.0,0,Vision Zero
+98,40.0,0,High Crash Corridor
+99,40.0,0,Pedestrian Safety
+100,40.0,0,Senior Safety
+101,40.0,0,Traffic Calming
+102,40.0,0,Traffic Network Chng
+103,40.0,1,VZ Priority Geo
+104,40.0,0,Vision Zero
+105,41.0,0,High Crash Corridor
+106,41.0,0,Pedestrian Safety
+107,41.0,0,Senior Safety
+108,41.0,0,Traffic Calming
+109,41.0,0,Traffic Network Chng
+110,41.0,1,VZ Priority Geo
+111,41.0,0,Vision Zero
+112,44.0,0,High Crash Corridor
+113,44.0,0,Pedestrian Safety
+114,44.0,0,Senior Safety
+115,44.0,1,Traffic Calming
+116,44.0,0,Traffic Network Chng
+117,44.0,0,VZ Priority Geo
+118,44.0,0,Vision Zero
+119,47.0,0,High Crash Corridor
+120,47.0,0,Pedestrian Safety
+121,47.0,0,Senior Safety
+122,47.0,1,Traffic Calming
+123,47.0,0,Traffic Network Chng
+124,47.0,0,VZ Priority Geo
+125,47.0,1,Vision Zero
+126,49.0,0,High Crash Corridor
+127,49.0,0,Pedestrian Safety
+128,49.0,0,Senior Safety
+129,49.0,0,Traffic Calming
+130,49.0,0,Traffic Network Chng
+131,49.0,0,VZ Priority Geo
+132,49.0,1,Vision Zero
+133,50.0,0,High Crash Corridor
+134,50.0,0,Pedestrian Safety
+135,50.0,0,Senior Safety
+136,50.0,1,Traffic Calming
+137,50.0,0,Traffic Network Chng
+138,50.0,0,VZ Priority Geo
+139,50.0,0,Vision Zero
+140,60.0,0,High Crash Corridor
+141,60.0,0,Pedestrian Safety
+142,60.0,0,Senior Safety
+143,60.0,0,Traffic Calming
+144,60.0,0,Traffic Network Chng
+145,60.0,1,VZ Priority Geo
+146,60.0,0,Vision Zero
+147,63.0,0,High Crash Corridor
+148,63.0,0,Pedestrian Safety
+149,63.0,0,Senior Safety
+150,63.0,0,Traffic Calming
+151,63.0,0,Traffic Network Chng
+152,63.0,2,VZ Priority Geo
+153,63.0,0,Vision Zero
+154,66.0,0,High Crash Corridor
+155,66.0,1,Pedestrian Safety
+156,66.0,0,Senior Safety
+157,66.0,1,Traffic Calming
+158,66.0,0,Traffic Network Chng
+159,66.0,0,VZ Priority Geo
+160,66.0,0,Vision Zero
+161,67.0,0,High Crash Corridor
+162,67.0,0,Pedestrian Safety
+163,67.0,0,Senior Safety
+164,67.0,3,Traffic Calming
+165,67.0,0,Traffic Network Chng
+166,67.0,0,VZ Priority Geo
+167,67.0,0,Vision Zero
+168,70.0,0,High Crash Corridor
+169,70.0,0,Pedestrian Safety
+170,70.0,0,Senior Safety
+171,70.0,0,Traffic Calming
+172,70.0,0,Traffic Network Chng
+173,70.0,1,VZ Priority Geo
+174,70.0,0,Vision Zero
+175,72.0,0,High Crash Corridor
+176,72.0,0,Pedestrian Safety
+177,72.0,0,Senior Safety
+178,72.0,1,Traffic Calming
+179,72.0,0,Traffic Network Chng
+180,72.0,0,VZ Priority Geo
+181,72.0,1,Vision Zero
+182,73.0,0,High Crash Corridor
+183,73.0,0,Pedestrian Safety
+184,73.0,0,Senior Safety
+185,73.0,5,Traffic Calming
+186,73.0,1,Traffic Network Chng
+187,73.0,2,VZ Priority Geo
+188,73.0,1,Vision Zero
+189,75.0,0,High Crash Corridor
+190,75.0,0,Pedestrian Safety
+191,75.0,0,Senior Safety
+192,75.0,1,Traffic Calming
+193,75.0,0,Traffic Network Chng
+194,75.0,1,VZ Priority Geo
+195,75.0,0,Vision Zero
+196,77.0,0,High Crash Corridor
+197,77.0,0,Pedestrian Safety
+198,77.0,0,Senior Safety
+199,77.0,0,Traffic Calming
+200,77.0,0,Traffic Network Chng
+201,77.0,1,VZ Priority Geo
+202,77.0,0,Vision Zero
+203,81.0,0,High Crash Corridor
+204,81.0,0,Pedestrian Safety
+205,81.0,0,Senior Safety
+206,81.0,0,Traffic Calming
+207,81.0,0,Traffic Network Chng
+208,81.0,1,VZ Priority Geo
+209,81.0,0,Vision Zero
+210,83.0,0,High Crash Corridor
+211,83.0,0,Pedestrian Safety
+212,83.0,0,Senior Safety
+213,83.0,0,Traffic Calming
+214,83.0,1,Traffic Network Chng
+215,83.0,1,VZ Priority Geo
+216,83.0,0,Vision Zero
+217,84.0,0,High Crash Corridor
+218,84.0,0,Pedestrian Safety
+219,84.0,0,Senior Safety
+220,84.0,0,Traffic Calming
+221,84.0,1,Traffic Network Chng
+222,84.0,0,VZ Priority Geo
+223,84.0,0,Vision Zero
+224,90.0,0,High Crash Corridor
+225,90.0,0,Pedestrian Safety
+226,90.0,0,Senior Safety
+227,90.0,1,Traffic Calming
+228,90.0,0,Traffic Network Chng
+229,90.0,0,VZ Priority Geo
+230,90.0,0,Vision Zero
+231,102.0,0,High Crash Corridor
+232,102.0,0,Pedestrian Safety
+233,102.0,0,Senior Safety
+234,102.0,0,Traffic Calming
+235,102.0,0,Traffic Network Chng
+236,102.0,2,VZ Priority Geo
+237,102.0,0,Vision Zero
+238,103.0,0,High Crash Corridor
+239,103.0,0,Pedestrian Safety
+240,103.0,0,Senior Safety
+241,103.0,1,Traffic Calming
+242,103.0,0,Traffic Network Chng
+243,103.0,0,VZ Priority Geo
+244,103.0,0,Vision Zero
+245,104.0,0,High Crash Corridor
+246,104.0,0,Pedestrian Safety
+247,104.0,1,Senior Safety
+248,104.0,0,Traffic Calming
+249,104.0,0,Traffic Network Chng
+250,104.0,0,VZ Priority Geo
+251,104.0,0,Vision Zero
+252,107.0,0,High Crash Corridor
+253,107.0,0,Pedestrian Safety
+254,107.0,0,Senior Safety
+255,107.0,1,Traffic Calming
+256,107.0,0,Traffic Network Chng
+257,107.0,0,VZ Priority Geo
+258,107.0,0,Vision Zero
+259,108.0,0,High Crash Corridor
+260,108.0,1,Pedestrian Safety
+261,108.0,0,Senior Safety
+262,108.0,1,Traffic Calming
+263,108.0,0,Traffic Network Chng
+264,108.0,3,VZ Priority Geo
+265,108.0,0,Vision Zero
+266,109.0,0,High Crash Corridor
+267,109.0,0,Pedestrian Safety
+268,109.0,0,Senior Safety
+269,109.0,0,Traffic Calming
+270,109.0,0,Traffic Network Chng
+271,109.0,0,VZ Priority Geo
+272,109.0,4,Vision Zero
+273,112.0,0,High Crash Corridor
+274,112.0,0,Pedestrian Safety
+275,112.0,0,Senior Safety
+276,112.0,3,Traffic Calming
+277,112.0,0,Traffic Network Chng
+278,112.0,0,VZ Priority Geo
+279,112.0,0,Vision Zero
+280,114.0,1,High Crash Corridor
+281,114.0,0,Pedestrian Safety
+282,114.0,0,Senior Safety
+283,114.0,0,Traffic Calming
+284,114.0,0,Traffic Network Chng
+285,114.0,0,VZ Priority Geo
+286,114.0,0,Vision Zero
+287,115.0,14,High Crash Corridor
+288,115.0,0,Pedestrian Safety
+289,115.0,0,Senior Safety
+290,115.0,0,Traffic Calming
+291,115.0,0,Traffic Network Chng
+292,115.0,0,VZ Priority Geo
+293,115.0,0,Vision Zero
+294,122.0,0,High Crash Corridor
+295,122.0,0,Pedestrian Safety
+296,122.0,0,Senior Safety
+297,122.0,0,Traffic Calming
+298,122.0,0,Traffic Network Chng
+299,122.0,0,VZ Priority Geo
+300,122.0,2,Vision Zero
